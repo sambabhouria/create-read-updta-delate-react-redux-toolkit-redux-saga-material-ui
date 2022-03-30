@@ -1,8 +1,9 @@
-# Getting Started with Create React App
+# React Redux-Toolkit-Redux-Saga
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### `Sreen`
+![Formulario mult etapas](/img/1.png)
 
 ### `Project`
 React-Redux Saga CRUD app
@@ -20,9 +21,6 @@ You may also see any lint errors in the console.
 ### `Start server`
 
 npm run launch:server
-
-### `Sreen`
-![Formulario mult etapas](/img/1.png)
 
 ### `Technoogies`
 - React
